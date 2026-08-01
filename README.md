@@ -1,2 +1,4 @@
-# cpp-bank-system-50
+# Cpp Bank System 50
+
 A console banking deposit/withdrawal utility in C++.
+
